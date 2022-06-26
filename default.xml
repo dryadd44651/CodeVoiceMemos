@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest>
+  <remote fetch="https://github.com/dryadd44651" name="origin" />
+  <default remote="origin" revision="master" sync-j="4"/>
+  <project name="Note" path="Note"/>
+
+
+<!--   <include name="custom.xml"/> -->
+</manifest>
