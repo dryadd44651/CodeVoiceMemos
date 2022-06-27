@@ -2,7 +2,7 @@
 <manifest>
   <remote fetch="https://github.com/dryadd44651" name="origin" />
   <default remote="origin" revision="main" sync-j="4"/>
-  <project name="Note" path="Note"/>
+  <project name="Basic" path="Basic"/>
 
 
 <!--   <include name="custom.xml"/> -->
